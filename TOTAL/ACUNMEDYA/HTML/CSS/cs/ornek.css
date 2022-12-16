@@ -1,0 +1,29 @@
+ /* . div = class || div = hepsi || #div = id */
+        
+ #div {
+    color: rgb(16, 223, 26);
+    width: 100px;
+    height: 100px;
+    border: 4px double goldenrod;
+    background-color: bisque;
+    border-top: 5px solid rgb(255, 0, 247);
+    border-bottom: 5px solid orangered ;
+    /* border: 5px 10px 20px 30px */
+    border-radius: 100px;
+    padding: 25px;
+    margin-top: 25px;
+    margin-right: 50px;
+    margin-bottom: 70px;
+    margin-left: 90px;
+    /* margin: 25px 50px 70px 90px */
+    /* padding = cismlere ||| margin = heryere boşluk */
+}
+
+p a {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    color: magenta;
+}
